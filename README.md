@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://angular.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/> </a>
-
+ <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="css" width="40" height="40"/> </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MJackson22-bit&show_icons=true&locale=en&layout=compact" alt="mjackson22" /></p>
