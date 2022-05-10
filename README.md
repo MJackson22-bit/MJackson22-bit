@@ -28,3 +28,5 @@ You can click the Preview link to take a look at your changes.
    <a href="https://developer.android.com/jetpack/compose?hl=es-419"><img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="css" width="40" height="40"/> </a>
 </p>
 <p> <a href="https://github-readme-stats.vercel.app/api/top-langs?username=MJackson22-bit&show_icons=true&locale=en&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MJackson22-bit&show_icons=true&locale=en&layout=compact" alt="mjackson22" /></a></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MJackson22-bit&show_icons=true&locale=en" alt="santelizvargas" /></p>
