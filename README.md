@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p> <a href="https://github-readme-stats.vercel.app/api/top-langs?username=MJackson22-bit&show_icons=true&locale=en&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MJackson22-bit&show_icons=true&locale=en&layout=compact" alt="mjackson22" /></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MJackson22-bit&show_icons=true&locale=en" alt="santelizvargas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MJackson22-bit&show_icons=true&locale=en" alt="mjackson22-bit" /></p>
