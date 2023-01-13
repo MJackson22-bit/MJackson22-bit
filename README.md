@@ -27,8 +27,3 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="css" width="40" height="40"/> </a>
    <a href="https://developer.android.com/jetpack/compose?hl=es-419"><img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="css" width="40" height="40"/> </a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJackson22-bit&show_icons=true&theme=dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJackson22-bit&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
