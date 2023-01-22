@@ -28,13 +28,29 @@ You can click the Preview link to take a look at your changes.
    <a href="https://developer.android.com/jetpack/compose?hl=es-419"><img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="css" width="40" height="40"/> </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/MJackson22-bit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MJackson22-bit&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJackson22-bit&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
-  
 
+## GitHub:
+<hr>
+
+<p align="center">
+    <a href="https://github.com/Jmejia-24/">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Byron Mejia's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jmejia-24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+<p align="center">
+<a href="https://github.com/MJackson22-bit/"><img alt="Jackson Github Stats" src="https://github-readme-stats.vercel.app/api?username=MJackson22-bit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+<br/>
+<br/>
+
+<a href="https://github.com/MJackson22-bit"><img alt="Jackson Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MJackson22-bit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">
+<a href="https://github.com/MJackson22-bit/"><img alt="Jackson Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJackson22-bit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
  
 <div> 
  
