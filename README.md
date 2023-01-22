@@ -27,3 +27,17 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="css" width="40" height="40"/> </a>
    <a href="https://developer.android.com/jetpack/compose?hl=es-419"><img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="css" width="40" height="40"/> </a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/MJackson22-bit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MJackson22-bit&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJackson22-bit&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+  
+
+ 
+<div> 
+ 
+  ![Snake animation](https://github.com/MJackson22-bit/MJackson22-bit/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
