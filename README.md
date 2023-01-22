@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <p align="center">
-    <a href="https://github.com/Jmejia-24/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Byron Mejia's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jmejia-24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/MJackson22-bit/">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jackson streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MJackson22-bit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
