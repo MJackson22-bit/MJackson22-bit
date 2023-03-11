@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/MJackson22-bit"><img alt="Jackson Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MJackson22-bit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
-<a href="https://github.com/MJackson22-bit/"><img alt="Jackson Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MJackson22-bit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/MJackson22-bit/"><img alt="Jackson Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MJackson22-bit&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
  
 <div> 
