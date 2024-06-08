@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson Montenegro</h1>
-<h3 align="center">A passionate mobile and web developer from Nicaragua</h3>
+<h3 align="center">A passionate mobile and web developer.</h3>
 
 - 👋 Hi, I’m Jackson Montenegro
 - 👀 I am interested in continuing to learn a lot about programming, especially mobile development with Java and Kotlin, as well as web developer with different frameworks.
