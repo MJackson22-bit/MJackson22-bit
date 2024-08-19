@@ -2,9 +2,9 @@
 <h3 align="center">A passionate mobile and web developer.</h3>
 
 - 👋 Hi, I’m Jackson Montenegro
-- 👀 I am interested in continuing to learn a lot about programming, especially mobile development with Java and Kotlin, as well as web developer with different frameworks.
-- 🌱 I am currently reading about neural networks in Python as part of artificial intelligence.
-- 💞️ I’m looking to collaborate on Hackathon Nicaragua in 2020 and 2021 with different projects de innovation
+- 👀 I am interested in continuing to learn a lot about programming, especially mobile development with Java and Kotlin, as well as web development with different frameworks.
+- 🌱 I am currently reading about neural networks in Python as part of my exploration of artificial intelligence.
+- 💞️ I’m looking to collaborate on Hackathon Nicaragua in 2020, 2021 and 2022 with various innovation projects.
 - 📫 How to reach me ...
 
 <!---
